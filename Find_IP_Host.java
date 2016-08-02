@@ -1,7 +1,8 @@
 /**
- * 
- * 
- * 
+ * This is a Lab for Network Programming with Java 
+ * AUTHOR : RONAK PANAHI
+ * Date : October 2015
+ * Looking Up Internet Addresses (NsLookup)/IPAddress Category
  */
 
 package ip_hostname;
